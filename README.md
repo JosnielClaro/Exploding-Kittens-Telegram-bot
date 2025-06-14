@@ -1,2 +1,2 @@
 # Exploding-Kittens-Telegram-bot
-mi jueguito en telegram
+Unofficial bot to play Exploding Kittens in Telegram
