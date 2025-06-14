@@ -4,7 +4,7 @@
   "description": "Unofficial bot to play Exploding Kittens in Telegram",
   "main": "dist/app.js",
   "engines": {
-    "node": "12.19",
+    "node": ">=18.0.0 <23.0.0",
     "npm": "6.14"
   },
   "scripts": {
